@@ -1,3 +1,3 @@
 # bwolf
 
-A sample chess engine.
+A sample chess engine using chessboardjs as interface
